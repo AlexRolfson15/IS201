@@ -1,0 +1,35 @@
+body{
+    align-items: center;
+    text-align: center;
+    background-color: #A2AAAD
+}
+.menu{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    color: #6F263D;
+}
+.link{
+    text-align: center;
+    color: #6F263D
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #6F263D
+    
+}
+.resume{
+    font-style: ;
+    
+}
+ol li{
+    text-align: center;
+    list-style-position: inside;
+    font-weight: bold;
+}
+ul li{
+    font-weight:lighter
+}
+li{
+    list-style-position: inside;
+}
